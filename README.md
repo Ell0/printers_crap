@@ -1,4 +1,4 @@
-PAS
-===
+Printers craps
+===============
 
-Printer Attached Storage
+Miscellaneous tools for playing with printers capabilities.
